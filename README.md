@@ -35,18 +35,23 @@
 <details>
   <summary><h3>Dataset</h3></summary>
 
-  The data utilized in this project includes...
+  - **Open Source Dataset**
+    - The Quick Draw Dataset is a collection of 50 million drawings across 345 categories
+    - [Quick Draw Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
+   
+  - **Check word frequency**
+    - [COCA](https://www.wordfrequency.info/intro.asp)
 
 </details>
 
 <details>
-  <summary>**Model Introduction**</summary>
+  <summary><h3>Model</h3></summary>
 
-  - **Open Source Model**
+  - **EfficientNetB0**
     - Name: ModelXYZ
     - GitHub Repository: [Link](https://github.com/modelXYZ)
   
-  - **Research Paper**
+  - **Wavenet**
     - Title: "Title of the Paper"
     - Authors: Author1, Author2, ...
     - Link: [Paper Link](https://arxiv.org/12345)
