@@ -1,7 +1,7 @@
-# :clipboard: # Index
+# :clipboard: Index
 
 <details>
-  <summary><h3>Member</h3></summary>
+  <summary><h3> :man: Member</h3></summary>
   
   - **KIM GAHYEON**
     - UI/UX Design
