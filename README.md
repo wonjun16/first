@@ -29,7 +29,8 @@
   Pictogrammer was inspired by the QuickDraw game developed by Google.  
   Through this project, we expect users to go beyond simply memorizing English words and strengthen their intuition and memory for words.  
 
-  ![image](https://github.com/wonjun16/first/assets/94692391/a9911d17-bdad-4dd4-8030-9504dfdd8ded)
+  ![image](https://github.com/wonjun16/first/assets/94692391/948be9b7-3243-41cb-be99-7b5b887a9a25)
+
 
 
   
