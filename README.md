@@ -2,9 +2,10 @@
 
 <details>
   <summary><h2>Members Introduction</h2></summary>
-  - **Jane Smith**  
-    - Role: Project Manager  
-    - Responsibilities: Coordination and planning  
+  
+  - **Jane Smizzh**
+    - Role: Data Scientist
+    - Responsibilities: Model devzzlopment and evaluation
 
   - **Jane Smith**
     - Role: Data Scientist
