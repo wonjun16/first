@@ -1,23 +1,28 @@
-# Pictogrammer
+# Index
 
 <details>
-  <summary><h2>Members Introduction</h2></summary>
+  <summary><h3>Member</h3></summary>
   
-  - **Jane Smizzh**
-    - Role: Data Scientist
-    - Responsibilities: Model devzzlopment and evaluation
+  - **KIM GAHYEON**
+    - UI/UX Design
+    - React implementation
+    - FastAPI development
 
-  - **Jane Smith**
-    - Role: Data Scientist
-    - Responsibilities: Model development and evaluation
+  - **KIM SHINWOOK**
+    - Firebase DB development
+    - Node.js development
 
-  <!-- Add more members as needed -->
+  - **JANG WONJUN**
+    - AI Modeling(efficientnet)
+    - AI Modeling(wavenet)
+
 </details>
 
 <details>
   <summary><h3>Project Introduction</h3></summary>
 
-  This project aims to...
+  ![image](https://github.com/wonjun16/first/assets/94692391/518c835a-52af-471e-a2f5-cc87960367bc)
+
 
   <!-- Add more details about the project -->
 
