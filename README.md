@@ -48,27 +48,25 @@
   <summary><h3>Model</h3></summary>
 
   - **EfficientNetB0**
-    - Name: ModelXYZ
-    - GitHub Repository: [Link](https://github.com/modelXYZ)
+    - Original thesis : [EfficientNet](https://arxiv.org/abs/1905.11946)
   
   - **Wavenet**
-    - Title: "Title of the Paper"
-    - Authors: Author1, Author2, ...
-    - Link: [Paper Link](https://arxiv.org/12345)
+    - Original thesis : [Wavenet](https://arxiv.org/abs/1711.10433)
+    - Code referenced : [Wavenet Classifier](https://github.com/mjpyeon/wavenet-classifier/blob/master/WaveNetClassifier.py)
 
   <!-- Add more details about the model -->
 
 </details>
 
 <details>
-  <summary>**Results Video**</summary>
+  <summary><h3>Demo Video</h3></summary>
 
-  [Link to Results Video](https://www.youtube.com/results_video)
+  [Demo](https://www.youtube.com/watch?v=3kXYX32ech4&feature=youtu.be)
 
 </details>
 
 <details>
-  <summary>**How to Run**</summary>
+  <summary><h3>How to Run</h3></summary>
 
   To run this project, follow these steps:
 
@@ -76,6 +74,5 @@
   2. Install dependencies: `pip install -r requirements.txt`
   3. Run the main script: `python main.py`
 
-  <!-- Add more instructions as needed -->
 
 </details>
