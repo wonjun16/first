@@ -21,21 +21,14 @@
 <details>
   <summary><h3>Project Introduction</h3></summary>
 
-  ![image](https://github.com/wonjun16/first/assets/94692391/518c835a-52af-471e-a2f5-cc87960367bc)  
+  ![image](https://github.com/wonjun16/first/assets/94692391/948be9b7-3243-41cb-be99-7b5b887a9a25)
   Pictogrammer is a web-based edu game service where users draw pictures and AI matches them to study English words.  
   This project aims to help children learn English words in an easy and fun way.  
-
-  ![image](https://github.com/wonjun16/first/assets/94692391/22cfcc21-16d3-458b-9d07-e030766a0d08)  
-  Pictogrammer was inspired by the QuickDraw game developed by Google.  
-  Through this project, we expect users to go beyond simply memorizing English words and strengthen their intuition and memory for words.  
-
-  ![image](https://github.com/wonjun16/first/assets/94692391/948be9b7-3243-41cb-be99-7b5b887a9a25)
-
-
-
+  
   
   ![image](https://github.com/wonjun16/first/assets/94692391/aff151d8-940a-47eb-93a6-10e12f00a285)
-
+  Pictogrammer was inspired by the QuickDraw game developed by Google.  
+  Through this project, we expect users to go beyond simply memorizing English words and strengthen their intuition and memory for words.  
 
 </details>
 
