@@ -1,7 +1,7 @@
 # Project Documentation
 
 <details>
-  <summary>**Members Introduction**</summary>
+  <summary><h1>Members Introduction</h1></summary>
 <div markdown="1">
   - **John Doe**
     - Role: Project Manager
