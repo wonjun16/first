@@ -22,12 +22,12 @@
   <summary><h3>Project Introduction</h3></summary>
 
   ![image](https://github.com/wonjun16/first/assets/94692391/948be9b7-3243-41cb-be99-7b5b887a9a25)
-  Pictogrammer is a web-based edu game service where users draw pictures and AI matches them to study English words.  
+  Pictogrammer is a web-based edu game service where users <span style="background-color:#fff5b1"> draw pictures and AI matches </span> them to study English words.  
   This project aims to help children learn English words in an easy and fun way.  
   
   
   ![image](https://github.com/wonjun16/first/assets/94692391/aff151d8-940a-47eb-93a6-10e12f00a285)
-  Pictogrammer was inspired by the QuickDraw game developed by Google.  
+  The QuickDraw game developed by Google inspired Pictogrammer.  
   Through this project, we expect users to go beyond simply memorizing English words and strengthen their intuition and memory for words.  
 
 </details>
@@ -68,11 +68,18 @@
 <details>
   <summary><h3>How to Run</h3></summary>
 
-  To run this project, follow these steps:
+First, run the backend server
+```
+node server.js
+```
+```
+Python -m uvicorn main:app --port 8008 --reload
+```
 
-  1. Clone the repository: `git clone https://github.com/your/project.git`
-  2. Install dependencies: `pip install -r requirements.txt`
-  3. Run the main script: `python main.py`
+Then, run the frontend server
+```
+npm start
+```
 
 
 </details>
