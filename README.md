@@ -33,11 +33,9 @@
 </details>
 
 <details>
-  <summary>**Introduction to Data Used**</summary>
+  <summary><h3>Dataset</h3></summary>
 
   The data utilized in this project includes...
-
-  <!-- Add more details about the data -->
 
 </details>
 
