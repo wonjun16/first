@@ -22,7 +22,9 @@
   <summary><h3>Project Introduction</h3></summary>
 
   ![image](https://github.com/wonjun16/first/assets/94692391/948be9b7-3243-41cb-be99-7b5b887a9a25)
-  Pictogrammer is a web-based edu game service where users <span style="background-color:#fff5b1"> draw pictures and AI matches </span> them to study English words.  
+  Pictogrammer is a web-based edu game service where users 
+  <span style="background-color:#fff5b1"> draw pictures and AI matches </span> 
+  them to study English words.  
   This project aims to help children learn English words in an easy and fun way.  
   
   
