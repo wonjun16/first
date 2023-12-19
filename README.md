@@ -1,8 +1,8 @@
-# Project Documentation
+# Pictogrammer
 
 <details>
   <summary><h2>Members Introduction</h2></summary>
-  - ***John Doe***
+  - **Jane Smith**
     - Role: Project Manager
     - Responsibilities: Coordination and planning
 
