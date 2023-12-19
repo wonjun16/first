@@ -1,9 +1,8 @@
 # Project Documentation
 
 <details>
-  <summary><h1>Members Introduction</h1></summary>
-<div markdown="1">
-  - **John Doe**
+  <summary><h2>Members Introduction</h2></summary>
+  - ***John Doe***
     - Role: Project Manager
     - Responsibilities: Coordination and planning
 
@@ -12,11 +11,10 @@
     - Responsibilities: Model development and evaluation
 
   <!-- Add more members as needed -->
-<!div>
 </details>
 
 <details>
-  <summary>**Project Introduction**</summary>
+  <summary><h3>Project Introduction</h3></summary>
 
   This project aims to...
 
